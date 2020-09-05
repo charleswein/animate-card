@@ -1,3 +1,2 @@
-# animcard__180deg
-css practise
+# AnimateCard
 https://charleswein.github.io/animcard__180deg/
