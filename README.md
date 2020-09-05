@@ -1,2 +1,2 @@
 # AnimateCard
-https://charleswein.github.io/animcard__180deg/
+https://charleswein.github.io/AnimateCard-css/
