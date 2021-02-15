@@ -1,2 +1,2 @@
-# AnimateCard
-https://charleswein.github.io/AnimateCard-css/
+# [AnimateCard](https://charleswein.github.io/AnimateCard-css/)
+
