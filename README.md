@@ -1,2 +1,2 @@
-# [AnimateCard](https://charleswein.github.io/animate-card/)
+# [Animate Card](https://charleswein.github.io/animate-card/)
 
